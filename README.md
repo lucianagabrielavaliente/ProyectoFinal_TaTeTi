@@ -9,7 +9,8 @@ El mundo TaTeTi permite que dos agentes realicen jugadas en un tablero por medio
 
 La arquitectura a seguir:
 
-![diagrama 3 0](https://user-images.githubusercontent.com/54379062/162546497-d2a8a978-67dc-4d08-bceb-0b441748147a.png)
+![diagram](https://user-images.githubusercontent.com/54379062/167011894-7b557c0e-349c-4557-8583-9a01a1fb3726.png)
+
 
 ## Funcionamiento
 
