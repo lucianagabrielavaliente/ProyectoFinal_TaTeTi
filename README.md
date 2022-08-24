@@ -32,7 +32,7 @@ La arquitectura a seguir:
 
 ##  Integrantes
 
-Rebeca Benedetti, Lucia Thea, Luciana Valiente. 
+Rebeca Benedetti, Lucía Thea, Luciana Valiente. 
 
 #### @ Universidad Tecnológica Nacional - Facultad Regional Concepción del Uruguay
 
